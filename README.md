@@ -6,7 +6,7 @@
 Teaching computational methods to researchers from non-STEM backgrounds, such as those working in humanities disciplines that have not historically incorporated digital methods, presents unique challenges. During this workshop, we are going to explore several pedagogical methods for training humanities researchers on digital research techniques. We will discuss and demo different training modalities, including hands-on live coding workshops, how-to guides to approach methods, and asynchronous online options. We will also explore ideas for good practice in supporting humanities researchers in incorporating computational techniques into their existing research. We will do this by exploring different training activities focusing on the same technique to see how to set learning environments to better engage with various audiences, and how to bridge the gap between computer science and humanities methodologies. The workshop will focus on text analysis techniques and will use Python.
 
 ## Pre-workshop preparations: 
-Please familiarise yourself with the contents of [this document](https://github.com/DCS-training/DHRSE_SummerSchool_CDCS/blob/main/Attendees.md).
+Please familiarise yourself with the contents of [this document](https://github.com/DCS-training/TeachingDH/blob/main/AttendeesInstructions.md).
 
 All of the material will be accessed through Google Colab, so you will not need to complete any installations on your machine.
 
