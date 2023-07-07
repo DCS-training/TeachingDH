@@ -1,9 +1,15 @@
 # Attendees Instructions
- During the activity, you will act as an attendee for two of the three training types. 
- 
- Please read the material below to familiarise yourself with the information an attendee would have received. 
+We will simulate three learning experiences using roleplay. The formats are as follows:
+
+- **Standard workshop**: an instructor-led live coding tutorial in an introduction to the NLTK package in Python
+- **Digital Method of the Month**: an open discussion about text mining as a method, including what it takes to get started, potential use cases, and resources for learning
+- **Silent Disco**: an opportunity to receive real-time chat support while working through a Programming Historian lesson.
+
+Below you can find all the information that an attendee will receive for each training format. 
+
 
 ## 1. Standard Training. "Text Analysis with Python’s NLTK Library"
+
 ### 1.1 Structure 
 Courses are longer training events (usually two to five classes) and they are the most time-consuming type of training offered by the Centre. 
 
@@ -22,9 +28,9 @@ For the courses, we use the Team feature in Microsoft Teams, so you may be asked
 
 **IN PERSON**
 
-This course is for people who have some experience coding in Python and would like to expand their capabilities to include the library Natural Language Toolkit (NLTK).  This course will cover how to analyse unstructured data, specifically data in plaintext files (TXT).  
+This course is for **people who have some experience coding in Python** and would like to expand their capabilities to include the library Natural Language Toolkit (NLTK).  This course will cover how to analyse unstructured data, specifically data in plaintext files (TXT).  
 
-The course will have four, one-hour, virtual tutorials.  
+The course will have four, one-hour, tutorials.  
 
 Participants will complete assignments in Jupyter Notebooks.  The instructor will provide learning material from freely available, online, resources. 
 
@@ -38,11 +44,13 @@ After taking part in this event, you may decide that you need some further help 
 
 [More details about Data Surgeries](https://www.cdcs.ed.ac.uk/training/data-surgery). 
 
-If you’re new to this training event format, or to CDCS training events in general, read more on what to expect from CDCS training. Here you will also find details of our cancellation and no-show policy, which applies to this event. 
+If you’re new to this training event format, or to CDCS training events in general, read more on [what to expect from CDCS training](https://www.cdcs.ed.ac.uk/what-expect-cdcs-training). Here you will also find details of our cancellation and no-show policy, which applies to this event. 
+
 
 ### 1.3 Preparatory Email 
-Good afternoon,     
+This model of email is normally sent to the attendees around 4 days before the training
 
+"Good afternoon,     
 
 You have registered as a participant for the upcoming course: **Text Analysis with Python’s NLTK Library**. 
 
@@ -50,26 +58,18 @@ The course will start **Monday 10/04** from **14:00-15:00** and will last **Mond
  
 Please carefully read the following notes regarding how to get ready for this course 
 
-If you’re new to this training event format, or to CDCS training events in general, [read more on what to expect from CDCS training](https://www.cdcs.ed.ac.uk/what-expect-cdcs-training). Here you will also find details of our cancellation and no-show policy, which applies to this event.     
+- If you’re new to this training event format, or to CDCS training events in general, [read more on what to expect from CDCS training](https://www.cdcs.ed.ac.uk/what-expect-cdcs-training). Here you will also find details of our cancellation and no-show policy, which applies to this event.     
 
-The course will take place in the Digital Scholarship Centre Room. The room is located on the last floor of the Library. If you are accessing the 6th floor by the elevator the room will be located on your left past the wooden door.   
+- The course will take place in []. The room is located [].
 
-As of March 2022, the government formally removed all Covid restrictions in the UK. We ask that you continue to be considerate of others’ personal space, and please do not attend if you feel unwell or have any of Covid symptoms.
+- As of March 2022, the government formally removed all Covid restrictions in the UK. We ask that you continue to be considerate of others’ personal space, and please do not attend if you feel unwell or have any of Covid symptoms.
 
-For this course, the instructor is going to use Python via **Google Colab**. 
+- For this course, we are going to use **Jupyter Notebook (Python)** via [**Google Colab**](https://colab.research.google.com/). This is to avoid packages installation errors. [In this document]() you can find more information on how to get set in Google Colab. In the same document, you can find instructions on how to set up on your own machine (using Anaconda). Please be aware that if you decide to use a locally installed version of Python you may need to edit the Notebook. 
 
-If you are going to use Google Colab you do not need to install anything but you will need to set up on it up. Attached is the instruction on how to do so.
-
-In the attached document there is also info on how to download Python via Anaconda and how to set it up in Noteable. Please notice that if you decide to use Noteable or run the notebook on your own machine you may encounter some problems in installing the libraries.
-
-
-To share the course material and facilitate communications we have created a Teams Group. Please join the Teams via this link.  
-All material will be shared via Teams in the “Files” tab of the “General” channel (you will not be able to access the materials without joining).  
-We are going to share the Google Colab link in the Team group on Thursday.    
-
+- All the material connected with this course can be found in [this repository](https://github.com/DCS-training/nltk-intro)
 Best wishes, 
 
-The CDCS Team 
+The CDCS Team" 
 
 
 ## 2 Digital Method of the Month. "Text Analysis"
