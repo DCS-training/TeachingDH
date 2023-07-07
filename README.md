@@ -11,7 +11,7 @@ Please familiarise yourself with the contents of [this document](https://github.
 All of the material will be accessed through Google Colab, so you will not need to complete any installations on your machine.
 
 
-## Instructions:
+### Instructions:
 
 We will simulate three learning experiences using roleplay. The formats are as follows:
 
@@ -23,7 +23,7 @@ You will be able to act as both an instructor/helper and an attendee. The variou
 
 We have created four attendee profiles that reflect the backgrounds and experience levels of learners who enrol in our training workshops. Before we begin, you will receive an attendee profile that will inform your experience in each learning experience. Do your best to participate according to your assigned profile.
 
-## Detailed Schedule:
+### Detailed Schedule:
 
 - 14:00-14:20 Introduction and setting up
 - 14:20-14:50 Review instructors' role and divide into groups 
