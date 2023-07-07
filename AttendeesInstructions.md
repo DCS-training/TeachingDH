@@ -64,7 +64,7 @@ Please carefully read the following notes regarding how to get ready for this co
 
 - As of March 2022, the government formally removed all Covid restrictions in the UK. We ask that you continue to be considerate of others’ personal space, and please do not attend if you feel unwell or have any of Covid symptoms.
 
-- For this course, we are going to use **Jupyter Notebook (Python)** via [**Google Colab**](https://colab.research.google.com/). This is to avoid packages installation errors. [In this document]() you can find more information on how to get set in Google Colab. In the same document, you can find instructions on how to set up on your own machine (using Anaconda). Please be aware that if you decide to use a locally installed version of Python you may need to edit the Notebook. 
+- For this course, we are going to use **Jupyter Notebook (Python)** via [**Google Colab**](https://colab.research.google.com/). This is to avoid packages installation errors. [In this document](https://github.com/DCS-training/TeachingDH/blob/main/Settings.md) you can find more information on how to get set in Google Colab. In the same document, you can find instructions on how to set up on your own machine (using Anaconda). Please be aware that if you decide to use a locally installed version of Python you may need to edit the Notebook. 
 
 - All the material connected with this course can be found in [this repository](https://github.com/DCS-training/nltk-intro)
 Best wishes, 
@@ -107,21 +107,11 @@ If you’re new to this training event format, or to CDCS training events in gen
 Here you will also find details of our cancellation and no-show policy, which applies to this event. 
  
 
-If you're interested in other training on text analysis, have a look at the following: 
-
-- Collecting and Handling Open-Source Data for Text analysis with Natural Language Processing 
-- Natural Language Processing with SpaCy
-- Silent Disco: Introduction to Text Analysis 
-- Natural Language Processing with R 
-- Advanced Text Analysis: Topic Modelling with Python
-- Silent Disco: Sentiment Analysis with Python 
-- Silent Disco: Interrogating a National Narrative with GPT-2 (large-scale corpus)
-
-**Return to the Training Homepage to see other available events.** 
-
 
 ### 2.3 Preparatory Email
-Dear All,  
+This model of email is normally sent to the attendees around 4 days before the training
+
+"Dear All,  
 
 You are receiving this email as you are a registered participant in the upcoming training event:  
 
@@ -131,25 +121,22 @@ The event will take place on the **03rd of April at 12:00**.
 
 Please carefully read the following notes on how to prepare for the online session.  
 
-We are going to use a **Team channel**. To access this event, you will need to [sign up to this Teams Team in advance](). 
-
+- We are going to use a **Team channel**. To access this event, you will need to sign up to this Teams Team in advance [we are not going to use it for this demo]. 
 Once you have joined the Group you will be able to see the link to join the discussion on Monday. 
-
 The group will remain online for the rest of the semester to give you a space where to contact people for help and share any resources others may find useful. 
 
-If you want to familiarise yourself with the good practices of using text analysis in research, you can have a look at our [Pathway of Learning in Text Analysis](https://www.cdcs.ed.ac.uk/training/training-pathways/text-analysis-pathway)  
+- If you want to familiarise yourself with the good practices of using text analysis in research, you can have a look at our [Pathway of Learning in Text Analysis](https://www.cdcs.ed.ac.uk/training/training-pathways/text-analysis-pathway)  
 
-During the meeting, we are going to use [this shared document]() to discuss and it will remain available afterwards for you to use.   
+- During the meeting, we are going to use [this shared document](https://github.com/DCS-training/Digital-Method-of-the-Month/blob/main/DMM%20Docs/Text%20Analysis.md) to discuss and it will remain available afterwards for you to use.   
 
-If you’re new to this training event format, or to CDCS training events in general, [read more on what to expect from CDCS training](https://www.cdcs.ed.ac.uk/what-expect-cdcs-training). 
-
-Here you will also find details of our cancellation and no-show policy, which applies to this event.  
+- If you’re new to this training event format, or to CDCS training events in general, [read more on what to expect from CDCS training](https://www.cdcs.ed.ac.uk/what-expect-cdcs-training).  Here you will also find details of our cancellation and no-show policy, which applies to this event.  
 
 Let us know if you have any questions.  
 
 Best Wishes,  
 
-The CDCS Team 
+The CDCS Team"
+
 
 ## 3 Silent Disco. "Silent Disco: Introduction to Text Analysis" 
 
@@ -190,37 +177,29 @@ After taking part in this event, you may decide that you need some further help 
 
 If you’re new to this training event format, or to CDCS training events in general, [read more on what to expect from CDCS training](https://www.cdcs.ed.ac.uk/what-expect-cdcs-training).  Here you will also find details of our cancellation and no-show policy, which applies to this event. 
 
- 
-If you're interested in other training on text analysis, have a look at the following: 
-
-- Collecting and Handling Open-Source Data for Text analysis with Natural Language Processing 
-- Natural Language Processing with SpaCy
-- Natural Language Processing with R 
-- Digital Method of the Month: Text Analysis
-- Advanced Text Analysis: Topic Modelling with Python
-- Silent Disco: Sentiment Analysis with Python 
-- Silent Disco: Interrogating a National Narrative with GPT-2 (large-scale corpus)
 
 
 **Return to the Training Homepage to see other available events.**
 
 ### 3.3 Preparatory Email
-Dear All,     
+This model of email is normally sent to the attendees around 4 days before the training
+
+"Dear All,     
 
 I am writing as you are a registered participant in the upcoming training: [Silent Disco. Intro to Text Analysis](https://www.cdcs.ed.ac.uk/events/silent-disco-intro-to-text-analysis)  
 
- The session will take place in Silent disco mode Thursday (30/03) from 10:00 to 12:00.
+ The session will take place in Silent disco mode **Thursday (30/03)** from **10:00 to 12:00**.
 
 Please carefully read the following notes regarding how to get ready and connect to the online class.    
 
-This is a Silent Disco mode event. To access this event, you will need to sign up [to this Teams Team in advance](). For this event, we are not going to use the video function of teams but only the chat. Once you have joined the group you will be able to ask questions in a live thread or by creating a new one by selecting "New conversation" 
+- This is a Silent Disco mode event. To access this event, you will need to sign up [to this Teams Team in advance](https://teams.microsoft.com/l/team/19%3a-hJOwO2G2pIiz4USfwil4mKzN48mmQsedgzUcb6dnCo1%40thread.tacv2/conversations?groupId=e3a6df41-a9e0-4d24-a01b-2eb14b3576bd&tenantId=2e9f06b0-1669-4589-8789-10a06934dc61). For this event, we are not going to use the video function of teams but only the chat. Once you have joined the group you will be able to ask questions in a live thread or by creating a new one by selecting "New conversation" 
 
-If you're new to this training event format, or to CDCS training events in general, [read more on what to expect from CDCS training](https://www.cdcs.ed.ac.uk/what-expect-cdcs-training). Here you will also find details of our cancellation and no-show policy, which applies to this event.  
+- If you're new to this training event format, or to CDCS training events in general, [read more on what to expect from CDCS training](https://www.cdcs.ed.ac.uk/what-expect-cdcs-training). Here you will also find details of our cancellation and no-show policy, which applies to this event.  
 
-This Silent Disco is based on [this Tutorial developed by Edina for CDCS](https://github.com/DCS-training/IntroToTextAnalysis). You can start going through it at any point, but your instructor will be available to deal with any queries during the scheduled time of the workshop (10:00 -- 12:00) and will be available to respond to any queries in the days following via email.  
+- This Silent Disco is based on [this Tutorial developed by Edina for CDCS](https://github.com/DCS-training/IntroToTextAnalysis). You can start going through it at any point, but your instructor will be available to deal with any queries during the scheduled time of the workshop (10:00 -- 12:00) and will be available to respond to any queries in the days following via email.  
 
 Please let us know if you have any questions. 
 
 Best Wishes,  
 
-The CDCS Team 
+The CDCS Team "
