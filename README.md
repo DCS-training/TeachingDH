@@ -24,13 +24,14 @@ You will be able to act as both an instructor/helper and an attendee. The variou
 We have created four attendee profiles that reflect the backgrounds and experience levels of learners who enrol in our training workshops. Before we begin, you will receive an attendee profile that will inform your experience in each learning experience. Do your best to participate according to your assigned profile.
 
 ## Detailed Schedule:
-14:00-14:20 Introduction and setting up
-14:20-14:50 Review instructors' role and divide into groups 
-14:50-15:30 Demo standard workshop + feedback
-15:30-15:45 Break
-15:45-16:15 Demo DMM + feedback
-16:15-16:45 Demo Silent Disco + feedback
-16:45-17:00 Conclusion
+
+- 14:00-14:20 Introduction and setting up
+- 14:20-14:50 Review instructors' role and divide into groups 
+- 14:50-15:30 Demo standard workshop + feedback
+- 15:30-15:45 Break
+- 15:45-16:15 Demo DMM + feedback
+- 16:15-16:45 Demo Silent Disco + feedback
+- 16:45-17:00 Conclusion
 
 
 ## Copyright
