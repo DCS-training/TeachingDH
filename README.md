@@ -1,4 +1,4 @@
-# DHRSE SummerSchool CDCS
+# DH-RSE Summer School: CDCS
 
 ## Teaching Computational Methods to Humanities Researchers
 ### Instructors: Lucia Michielin, Jessica Witte
@@ -26,7 +26,7 @@ We have created four attendee profiles that reflect the backgrounds and experien
 ### Detailed Schedule:
 
 - 14:00-14:20 Introduction and setting up
-- 14:20-14:50 Review instructors' role and divide into groups 
+- 14:20-14:50 Divide into demo groups and review instructor/helper roles
 - 14:50-15:30 Demo standard workshop + feedback
 - 15:30-15:45 Break
 - 15:45-16:15 Demo DMM + feedback
