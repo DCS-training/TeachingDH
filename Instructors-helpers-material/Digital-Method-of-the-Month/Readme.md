@@ -53,10 +53,10 @@ The CDCS Team"
 ## Tips and advice:
 
 - Prepare some talking points and things to focus on during the meeting, but don't feel like you have to address every point in the notebook. Attendees will have access to all workshop materials, including the Github and Teams group, after the session concludes.
-- Remind attendees that they might not have many questions until they get going with text analysis in their own time. If appropriate, let them know to feel free to drop you (and the helpers) a line in the future if they run into problems.
-- Before beginning, make sure that everyone has the notebook open. Remind them of the goal of the workshop and give a brief overview of its structure.
-- Remember general presentation skills: make sure the font (especially in the console!) is big enough, slides are designed for accessbility, and that you follow the attendees' pace.
-- Avoid potentially discouraging language (e.g. "This is simple/easy/straightforward..." or "you should have no trouble at all..."). Many learners from non-digital backgrounds have significant anxiety about their computational skills, and have likely encountered the "born-programmer" myth. It's important to create a supportive environment where making mistakes is part of the learning process.
+- Remind attendees that they might not have many questions until they get started with text analysis in their own time. If appropriate, you may invite attendees to drop you (and the helpers) a line if they run into problems in the future.
+- Before beginning, make sure that everyone has the notebook open. Remind them of the structure of the workshop and give a brief overview of what you will cover.
+- Remember general presentation skills: make sure the font (especially in the console!) is big enough, visuals are designed for accessbility, and that you follow the attendees' pace.
+- Avoid potentially discouraging language (e.g. "This is simple/easy/straightforward..." or "you should have no trouble at all..."). Many learners from non-digital backgrounds have significant anxiety about their computational skills, and have likely encountered the "born-programmer" myth. It's therefore important to create a supportive environment where making mistakes is part of the learning process.
 - Regularly invite discussion and opportunities to provide clarity (e.g. "What questions do we have at this time?")
 - Emphasise knowledge transfer by asking attendees to consider how they might apply text analysis in their own work. This could be a good opportunity for large-group discussion and brainstorming.
 
