@@ -8,9 +8,9 @@ One person will act as the instructor and will be responsible for welcoming atte
   
 The instructor should feel comfortable with the Microsoft Teams chat interface. The helpers will assist in answering questions, but will have fewer facilitating duties.
   
-First, you'll want to assign instructor/helper roles to each group member. Then, open the Colab notebook [following the instructions in the repo](https://github.com/DCS-training/IntroToTextAnalysis). This notebook contains the tutorial for the workshop, so you'll want to familiarise yourself with the lesson in order to prepare for fielding questions.
+First, you'll want to assign instructor/helper roles to each group member. Then, open the Colab notebook [following the instructions in the repo](https://github.com/DCS-training/IntroToTextAnalysis). This notebook contains the tutorial for the workshop, so you'll want to familiarise yourself with the lesson in order to prepare for answering questions.
   
-Silent Disco workshops are appropriate for all skill levels, so be prepared to provide varying levels of support to attendees depending on their experience. 
+Silent Disco workshops are appropriate for all skill levels, so be prepared to provide varying levels of support to attendees. 
   
 ## Time
 You will have 30 minutes to prepare for the workshop demo. The demo itself will also last for 30 minutes.
@@ -43,7 +43,7 @@ The CDCS Team"
 
 - At the beginning of the workshop, welcome attendees and point them to the Colab notebook. Remind them of the goal of the workshop and give a brief overview of its structure.
 - Some attendees may have difficulty opening the notebook, so make sure you're familiar with how to do this before you begin.
-- When responding to questions, avoid potentially discouraging language (e.g. "This is simple/easy/straightforward..." or "you should have no trouble at all..."). Many learners from non-digital backgrounds have significant anxiety about their computational skills, and have likely encountered the "born-programmer" myth. It's important to create a supportive environment where making mistakes is part of the learning process.
+- When responding to questions, avoid potentially discouraging language (e.g. "This is simple/easy/straightforward..." or "you should have no trouble at all..."). Many learners from non-digital backgrounds have significant anxiety about their computational skills, and have likely encountered the "born-programmer" myth. It's therefore important to create a supportive environment where making mistakes is part of the learning process.
 - Halfway through the workshop, you might want to ask how everyone is getting on and remind them that you're available for another X minutes to answer any questions.  
 - At the end of the workshop, let attendees know that you're logging off, but that they will have access to all workshop materials, including the Github and Teams group, after the session concludes. 
 
