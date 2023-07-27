@@ -1,7 +1,9 @@
 # DH-RSE Summer School: CDCS
 
 ## Teaching Computational Methods to Humanities Researchers
-### Instructors: Lucia Michielin, Jessica Witte
+### Instructors: Lucia Michielin, Jessica Witte  
+[PowerPoint slides](https://uoe-my.sharepoint.com/:p:/g/personal/jwitte_ed_ac_uk/EUwodVIj6DFEi26YzU27YaYBGtkWMTCvjTg6_Ztybckj6g?e=PLYl2v)
+  
 
 Teaching computational methods to researchers from non-STEM backgrounds, such as those working in humanities disciplines that have not historically incorporated digital methods, presents unique challenges. During this workshop, we are going to explore several pedagogical methods for training humanities researchers on digital research techniques. We will discuss and demo different training modalities, including hands-on live coding workshops, how-to guides to approach methods, and asynchronous online options. We will also explore ideas for good practice in supporting humanities researchers in incorporating computational techniques into their existing research. We will do this by exploring different training activities focusing on the same technique to see how to set learning environments to better engage with various audiences, and how to bridge the gap between computer science and humanities methodologies. The workshop will focus on text analysis techniques and will use Python.
 
@@ -26,8 +28,9 @@ We have created four attendee profiles that reflect the backgrounds and experien
 ### Detailed Schedule:
 
 - 14:00-14:20 Introduction and setting up
-- 14:20-14:50 Divide into demo groups and review instructor/helper roles
-- 14:50-15:30 Demo standard workshop + feedback
+- 14:20-14:30 Review attendees' materials and divide into groups  
+- 14:30-15:00 Workshop demo preparation (reviewing instructor's materials)
+- 15:00-15:30 Demo standard workshop + feedback  
 - 15:30-15:45 Break
 - 15:45-16:15 Demo DMM + feedback
 - 16:15-16:45 Demo Silent Disco + feedback
