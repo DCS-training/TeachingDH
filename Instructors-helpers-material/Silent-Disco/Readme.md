@@ -13,7 +13,7 @@ First, you'll want to assign instructor/helper roles to each group member. Then,
 Silent Disco workshops are appropriate for all skill levels, so be prepared to provide varying levels of support to attendees. 
   
 ## Time
-You will have 30 minutes to prepare for the workshop demo. The demo itself will also last for 30 minutes.
+You will have 30 minutes to prepare for the workshop demo. The demo itself will last for 20 minutes followed by 10 minutes for a brief feedback discussion.
 
 ## Pre-workshop email  
 
