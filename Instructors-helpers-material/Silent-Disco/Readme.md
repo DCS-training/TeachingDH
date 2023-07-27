@@ -8,7 +8,7 @@ One person will act as the instructor and will be responsible for welcoming atte
   
 The instructor should feel comfortable with the Microsoft Teams chat interface. The helpers will assist in answering questions, but will have fewer facilitating duties.
   
-First, you'll want to assign instructor/helper roles to each group member. Then, open the Colab notebook [following the instructions in the repo](https://github.com/DCS-training/IntroToTextAnalysis). This notebook contains the tutorial for the workshop, so you'll want to familiarise yourself with the lesson in order to prepare for answering questions.
+First, you'll want to assign instructor/helper roles to each group member. Then, open the Colab notebook [following the instructions listed under #3 in the repo](https://github.com/DCS-training/IntroToTextAnalysis). This notebook contains the tutorial for the workshop, so you'll want to familiarise yourself with the lesson in order to prepare for answering questions.
   
 Silent Disco workshops are appropriate for all skill levels, so be prepared to provide varying levels of support to attendees. 
   
