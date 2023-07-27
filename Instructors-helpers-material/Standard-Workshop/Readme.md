@@ -14,7 +14,7 @@ First, you'll want to assign instructor/helper roles to each group member. Then,
 
 During the workshop, the instructor will introduce themselves and get to know the attendees before proceeding through the lesson. As they progress through the lessson, instructor(s) will explain each line of code to the attendees and provide opportunities for questions, discussion, and problem-solving.  
 ## Time
-You will have 30 minutes to prepare for the workshop demo. The demo itself will also last for 30 minutes.
+You will have 30 minutes to prepare for the workshop demo. The demo itself will last for 20 minutes followed by 10 minutes for a brief feedback discussion.
 
 ## Pre-workshop email  
 
