@@ -14,7 +14,7 @@ First, you'll want to assign facilitator/helper roles to each group member. Then
 DMM meetings are appropriate for absolute beginners, and many of the attendees might have limited experience with digital research. However, you'll want to get to know attendees in order to tailor the discussion to their familiarity with the method. Ask attendees to introduce themsleves and share a bit about their experience with digital research (and, if applicable, text analysis). It might also be interesting to have them explain why they signed up for the meeting and how they might apply text analysis in their own research. Attendees who have prior experience of text analysis might share this with their peers during the discussion. 
   
 ## Time
-You will have 30 minutes to prepare for the workshop demo. The demo itself will also last for 30 minutes.
+You will have 30 minutes to prepare for the workshop demo. The demo itself will last for 20 minutes followed by 10 minutes for a brief feedback discussion.
 
 ## Pre-workshop email  
 
