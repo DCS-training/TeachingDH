@@ -10,7 +10,7 @@ To facilitate problem solving without disrupting the workshop, attendees will us
 
 The group member acting as the instructor should feel comfortable leading a tutorial, responding to questions, and facilitating discussion. The helpers will primarily be acting in supportive roles, and should feel comfortable moving about the room and assisting attendees face-to-face.  
 
-First, you'll want to assign instructor/helper roles to each group member. Then, open the Google Colab notebook [provided in the repo](https://github.com/DCS-training/DHRSE_SummerSchool_CDCS/blob/main/Standard_Workshop/Instructors_Helpers_Material/text_analysis_extract.ipynb). This notebook will be used for the live coding session, which is the main activity for the workshop.  
+First, you'll want to assign instructor/helper roles to each group member. Then, open the Google Colab notebook [provided in the repo](https://github.com/DCS-training/TeachingDH/blob/main/Instructors-helpers-material/Standard-Workshop/text-analysis-extract.ipynb). This notebook will be used for the live coding session, which is the main activity for the workshop.  
 
 During the workshop, the instructor will introduce themselves and get to know the attendees before proceeding through the lesson. As they progress through the lessson, instructor(s) will explain each line of code to the attendees and provide opportunities for questions, discussion, and problem-solving.  
 ## Time
