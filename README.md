@@ -37,6 +37,6 @@ We have created four attendee profiles that reflect the backgrounds and experien
 - 16:45-17:00 Conclusion
 
 
-## Copyright
+## License
 
 This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
